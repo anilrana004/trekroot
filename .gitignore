@@ -15,9 +15,6 @@ dist-ssr
 .env.local
 .env.*.local
 
-# Large media (GitHub blocks >100MB)
-public/videos/*.mp4
-
 # Credentials / keys (never commit)
 *.pem
 *.key
